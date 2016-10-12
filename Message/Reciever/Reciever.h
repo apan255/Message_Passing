@@ -2,12 +2,7 @@
 #define RECEIVER_H
 /////////////////////////////////////////////////////////////////////
 //  Reciever.h -  Recieves Information end point in blocking call  //
-//                And send back to client                          //
-//  ver 1.0                                                        //
-//  Language:      Visual C++ 2013                                 //
-//  Platform:      Dell, Windows 8.1                               //
-//  Application:   Scope analysis, OOD Assignment 3, Spring2015    //
-//  Author:		   Ankur Pandey                                    //
+
 /////////////////////////////////////////////////////////////////////
 /*
 Module Operations:

@@ -4,10 +4,7 @@
 //  Dispatcher.h - Display Message Passing Project                 //
 //                                                                 //
 //  ver 1.0                                                        //
-//  Language:      Visual C++ 2013                                 //
-//  Platform:      Dell, Windows 8.1                               //
-//  Application:   Scope analysis, OOD Assignment 3, Spring2015    //
-//  Author:		   Ankur Pandey                                    //
+
 /////////////////////////////////////////////////////////////////////
 /*
 Module operation:

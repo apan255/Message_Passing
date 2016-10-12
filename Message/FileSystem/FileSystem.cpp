@@ -1,15 +1,7 @@
 /////////////////////////////////////////////////////////////////////////////
 // FileSystem.cpp - Support file and directory operations                  //
 // ver 2.6                                                                 //
-// ----------------------------------------------------------------------- //
-// copyright © Jim Fawcett, 2012                                           //
-// All rights granted provided that this notice is retained                //
-// ----------------------------------------------------------------------- //
-// Language:    Visual C++, Visual Studio 2010                             //
-// Platform:    Dell XPS 8300, Core i7, Windows 7 SP1                      //
-// Application: Summer Projects, 2012                                      //
-// Author:      Jim Fawcett, CST 4-187, Syracuse University                //
-//              (315) 443-3948, jfawcett@twcny.rr.com                      //
+
 /////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>

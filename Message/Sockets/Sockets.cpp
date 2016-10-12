@@ -1,13 +1,6 @@
 /////////////////////////////////////////////////////////////////////////
 // Sockets.cpp - C++ wrapper for Win32 socket api                      //
 // ver 4.7                                                             //
-// Jim Fawcett, CSE687 - Object Oriented Design, Spring 2015           //
-// CST 4-187, Syracuse University, 315 443-3948, jfawcett@twcny.rr.com //
-//---------------------------------------------------------------------//
-// Jim Fawcett (c) copyright 2015                                      //
-// All rights granted provided this copyright notice is retained       //
-//---------------------------------------------------------------------//
-// Application: OOD Projects #3, #4                                    //
 // Platform:    Visual Studio 2013, Dell 2720, Win 8.1 pro             //
 /////////////////////////////////////////////////////////////////////////
 
